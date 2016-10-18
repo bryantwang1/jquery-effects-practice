@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(to bottom, lightgray, gray);
+  background-attachment: fixed;
+}
+
+.initially-hidden {
+  display: none;
+}
+
+.click-style {
+  cursor: pointer;
+  color: darkgreen;
+}
+
+.click-style:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+}
