@@ -5,6 +5,12 @@ body {
 
 .initially-hidden {
   display: none;
+  background-color: black;
+  width: 90vw;
+}
+
+.initially-hidden img {
+  width: 90vw;
 }
 
 .click-style {
@@ -18,4 +24,8 @@ body {
 
 h1 {
   text-align: center;
+}
+
+h2 {
+  color: white;
 }
